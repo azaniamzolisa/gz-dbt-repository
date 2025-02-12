@@ -44,4 +44,3 @@ sources:
             description: cost of parcel prep
           - name: ship_cost
             description: shipping cost paid
-                  
